@@ -1,0 +1,20 @@
+.tres {
+    font-size: 24px;
+}
+
+.numero {
+    background-color: rgb(255, 192, 203);
+    color: rgb(0, 0, 0);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#unique {color: blue;
+font-size: 36px;
+font-weight: 500;
+}
+
+#unico {color: black;
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}

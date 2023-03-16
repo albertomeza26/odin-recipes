@@ -1,7 +1,9 @@
-* {
-    background-color: blanchedalmond;
-}
 div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+}
+p {
     color: white;
     font-size: 32px;
     background-color: red;
