@@ -1,0 +1,12 @@
+.numero {
+	font-family: "Helvetica", "Times New Roman", sans-serif;
+	font-size: 28px;
+} 
+.uno {
+	color: white;
+	background-color: black;
+}
+.dos {
+	color: black;
+	background-color: yellow;
+}
